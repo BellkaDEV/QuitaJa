@@ -11,7 +11,6 @@
 - João Vitor Martinelli Gomes
 - Mariana Dixini Gonçalves
 - João Pedro Pereira Ribeiro
-- Arthur Machado
 - Arthur Ribeiro Machado
 
 ---
